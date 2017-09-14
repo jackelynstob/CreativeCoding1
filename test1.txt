@@ -3,5 +3,6 @@ Date: September 14th 2017777
 
 This is my first text document for one of Dr. Musick's Media Arts courses.
 
+change 2
 
 This is a change
