@@ -9,7 +9,7 @@ The code looked a little like this:
 
 ```command prompt
 C:\Users\jackattack> nul>new-item
-Acess is Denied.
+Access is Denied.
 ```
 
 After trying multiple options and still failing, I turned to file an issue on GitHub. To my delight, a very nice classmate simply suggested Powershell, which I later read was another option on the module Dr. Musick provided. Unfortunately, I was not able to return the favor in helping another classmate.
