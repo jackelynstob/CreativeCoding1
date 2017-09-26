@@ -5,7 +5,7 @@ function setup() {
       // make a canvas 800 in width and 450 in height
       createCanvas( 800, 450 );
 
-      // create a gold background
+      // create a golden background
 
       background('gold');
 
