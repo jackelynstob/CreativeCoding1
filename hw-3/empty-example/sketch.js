@@ -1,5 +1,5 @@
 // start with the setup() function
-function setup() {
+function setup(){
 
       // canvas should be created at the beginning
       // make a canvas 800 in width and 450 in height
@@ -14,7 +14,7 @@ function setup() {
 
 // Declare draw() function IMPORTANT
 
-function draw() {
+function draw(){
 
   // use the text function, write "Hello World" and put in the top middle of screen
 
