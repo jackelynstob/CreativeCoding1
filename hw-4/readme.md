@@ -20,15 +20,12 @@ I'm sure if I had more time to work on this project, I could have gotten way clo
 SO, beginning with my face I REALLY quickly discovered this was much harder than I anticipated. No biggie though!
 Just start with the obvious first steps:
 
--   ```
-function setup ();     {
-      createCanvas( 600, 1200 );  }
-      ```
--   ```
-function draw(); {}
+```function setup ();     {
+    createCanvas( 600, 1200 );  }```
+
+ ```function draw(); {}
       background( 'rgb( 0, 0, 0 )' );
-        }
-  ```
+        }  ```
 
 
 Then came the masterpiece: **ME**
@@ -41,8 +38,10 @@ This is the point where I realized I needed a body-and this is also where I real
 
 # What Came Natural And What Didn't
 
-Like my blue-green eyes, what did come natural for me were the more basic steps: the shapes, the colors, strokes, fills, etc.
-Like my bright blonde hair, what didn't come natural were the harder steps: translate, rotate, and scale. I think this was mainly because I didn't feel much of a need for them in _my_ specific piece. I had a hard time trying to find a spot for them.
+- Like my blue-green eyes, what did come natural for me were the more basic steps: the shapes, the colors, strokes, fills, etc.
+- Like my bright blonde hair, what didn't come natural were the harder steps: translate, rotate, and scale.
+
+I think this was mainly because I didn't feel much of a need for them in _my_ specific piece. I had a hard time trying to find a spot for them.
 The shapes and colors were used significantly more, so this gave me more of an opportunity to * master * this skill, while the others weren't * necessary * to make the artwork. What I landed on was that those were tools to make something _easier_ , but that there is a time and a place for those specific functions.
 
 #### You Vs. The girl he tells you not to worry about
