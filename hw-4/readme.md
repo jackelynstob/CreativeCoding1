@@ -49,6 +49,6 @@ The shapes and colors were used significantly more, so this gave me more of an o
 
 Okay if you guys haven't seen those memes, LOOK THEM UP, they're hilarious. I figured I'd let you all know what I hoped I would be able to create in comparison to what was actually made. If you're not giggling with me, KINDLY get off my read.me HAHA.
 
-![TheCode](CODE.PNG) VS ![TheDrawing](DRAWING.PNG)
+               ![TheCode](CODE.PNG) VS ![TheDrawing](DRAWING.PNG)
 
 Okay, obviously I knew it couldn't be THAT detailed, but this was around what I was hoping for. They say dream big, but dang!!
