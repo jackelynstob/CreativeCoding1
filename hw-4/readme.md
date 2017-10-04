@@ -20,12 +20,12 @@ I'm sure if I had more time to work on this project, I could have gotten way clo
 SO, beginning with my face I REALLY quickly discovered this was much harder than I anticipated. No biggie though!
 Just start with the obvious first steps:
 
-```function setup ();     {
-    createCanvas( 600, 1200 );  }```
+- function setup ();     {
+    createCanvas( 600, 1200 );  } 
 
- ```function draw(); {}
+- function draw(); {}
       background( 'rgb( 0, 0, 0 )' );
-        }  ```
+        }
 
 
 Then came the masterpiece: **ME**
