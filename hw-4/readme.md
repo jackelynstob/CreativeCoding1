@@ -30,12 +30,13 @@ function draw(); {}
         }
   ```
 
+
 Then came the masterpiece: **ME**
 1. The ellipse function for my face
 2. The arc function for my eyes
 3. Then more of the arc function + CHORD for my bangs
 
-!!!!
+
 This is the point where I realized I needed a body-and this is also where I realized my order of operations was out of whack. So while I am building, I am inserting new functions and instructions for my lil' lady. This is where I actually PRAISE JESUS HIMSELF for the ability to enter in the / / notes. SERIOUSLY, THANKS TO WHOEVER CREATED THAT.
 
 # What Came Natural And What Didn't
