@@ -23,7 +23,7 @@ Just start with the obvious first steps:
 - function setup ();     {
     createCanvas( 600, 1200 );  }
 
-- function draw(); {}
+- function draw(); {
       background( 'rgb( 0, 0, 0 )' );
         }
 
