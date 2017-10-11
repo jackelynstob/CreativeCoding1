@@ -1,4 +1,4 @@
-// Rain fall
+// create your own variable for the top point of the triangle
 
 var topPointTriX = 50;
 
@@ -6,11 +6,11 @@ function setup() {
     createCanvas( windowWidth, windowHeight );
 
     // set the frame rate for the sketch
-    frameRate( 5 );
+    frameRate( 10 );
 }
 
 // set the background to black
-var black_val = 0;
+var blue_val = 0;
 
 //create a variable for the angle for the triangle
 var angle = 0;
@@ -18,11 +18,11 @@ var angle = 0;
 function draw () {
 
   // set the background every frame
-  background( 0, 0, black_val );
+  background( 0, 0, blue_val );
   // update black_val, by adding 1
-  black_val = black_val + 1;
+  blue_val = blue_val + 1;
   // limit black_val to 255 using modulo
-  black_val = black_val % 255;
+  blue_val = blue_val % 255;
 
   // get and display the current fram count
   fill( 255 );
@@ -46,7 +46,7 @@ function draw () {
     ellipse( mouseX, mouseY, 15 );
 
 }
-
+  //create a function where when the mouse is clicked the background turns blue
 function mousePressed() {
     background ( 0 );
 }
