@@ -38,9 +38,7 @@ I was successful in the bottom wall but without the top wall I didn't fully know
 
 I honestly just started this project and put some stuff on a page, then started to incorporate all of the details we needed to have in our homework. My intial project looked like first picture, but what I ended up with was the right picture:
 
-![First](EYE.PNG)
-
-![Final](EYES.PNG)
+![eye](EYE.PNG) VS ![eyetwo](EYES.PNG)
 
 To me, the first look is more aesthetically pleasing at first glance: the repeating eyes, the contrast against the dark color, etc. But when you actually look at the animation and effects of the final project, it's wicked cool that when the mouse moves from the left to the right the background changes color, and that the eye's iris and pupil actually LEAVE the eye when it hits certain bounds. Very hippy trippy.
 
