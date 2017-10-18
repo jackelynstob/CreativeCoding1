@@ -5,7 +5,7 @@ var zeroo = 9 % 3;
 //create object
 var eye = {};
 eye.pupilColor = "black";
-eye.Width = 65;
+eye.width = 65;
 eye.topHeight = 40;
 eye.bottomHeight = 35;
 eye.size = 25;
@@ -53,8 +53,8 @@ function draw() {
 //sclera
 
     fill( 250 );
-    arc( xc, mouseY, eye.Width, eye.topHeight, PI, TWO_PI);
-    arc( xc, mouseY, eye.Width, eye.bottomHeight, TWO_PI, PI);
+    arc( xc, mouseY, eye.width, eye.topHeight, PI, TWO_PI);
+    arc( xc, mouseY, eye.width, eye.bottomHeight, TWO_PI, PI);
 
 //iris
 
