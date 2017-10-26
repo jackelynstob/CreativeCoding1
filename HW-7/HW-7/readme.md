@@ -1,6 +1,6 @@
 Jack Stob, 51
 
-[Live Sketch Link](Your Live Link)
+[Live Sketch Link](https://jackelynstob.github.io/CreativeCoding1/HW-7/HW-7/)
 
 
 # HW 7 | Describe then Alter the Bouncing Ball
