@@ -44,13 +44,10 @@ function draw() {
 // top of umbrella
   arc(175, 400, 150, 150, PI, TWO_PI, PIE);
 // stick thing on umbrella
-  
+
   rect(170, 400, 15, 80);
 // handle for umbrella
 
   arc(170, 480, 30, 30, TWO_PI, PI+QUARTER_PI, PIE);
-
-
-
 
 }
