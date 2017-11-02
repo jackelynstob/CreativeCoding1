@@ -10,6 +10,7 @@ I finally got my rain and my umbrella I've been looking forward to making! My fr
 
 I have been able to grasp the majority of this information, but I think what I am having a hard time with boils down to variables. I understand variables are just something we declare, but sometimes in the examples where they say:  
 
+``
 function draw() {
 
 	// establish scoped variables
@@ -33,7 +34,7 @@ function draw() {
 			size
 		);
 	}
-
+``
   A lot of what is being said in here confuses me and I think it is because we are mixing the variables -- I do this in my work but it's because I have seen an example similar and by messing with the code I kind of figure it out. I do understand specific commands like the for loop, but the section in the bolded parts, I have no clue what is happening. I tried to go back and do the readings again for the places I am confused about (such as the map function), but I must just have to come in and ask. Just kind of a bummer because I feel like it's hindering my ability to do more.
 
 ## What I Did This week
