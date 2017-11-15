@@ -2,7 +2,7 @@
 let string = ["Merry", "Christmas", "Ya", "Filthy", "Animal"];
 
 function setup() {
-    createCanvas(windowWidth, 400);
+    createCanvas(windowWidth, windowHeight);
     frameRate(3);
 }
 
