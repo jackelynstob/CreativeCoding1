@@ -36,9 +36,10 @@ function draw() {
 
     festiveBall( pos, pos, 1.0, 1.0);
 //utilize the array through text
+
     textSize(15);
     fill(random(100,255), 0, 0);
-    text("I know it's Thanksgiving time... but:" + " " + string[idx], 20, 200);
+    text("I know it's Thanksgiving time... but:" + " " + string[idx], windowWidth/3, windowHeight/3);
 //make the text change and go up by one element
     idx = (idx + 1) % string.length;
 
