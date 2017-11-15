@@ -19,7 +19,7 @@ function draw() {
 	let num_of_objs = 30;
 	// to determine spacing,
 	// first determine the amount available space
-	// then devide by one less than the desired number of objects
+	// then divide by one less than the desired number of objects
 	**let x_spacing = (width-padding*2) / (num_of_objs-1);
 	let y_spacing = (height-padding*2) / (num_of_objs-1);**
 	rectMode( CENTER );

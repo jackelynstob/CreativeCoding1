@@ -12,12 +12,13 @@ let idx = 0;
 function draw() {
     background(0);
 
+//use code from a past project (hw-8)
     let amtInRow = 15;
   	let circle = 30;
   	let side = width / amtInRow;
 
 
-    // create some randomly blue circles to look like rain that loop through the rows but have a sharp angle... looks cool
+    // create some randomly green circles to look like that loop through the rows
 
         for ( let y = circle; y < height; y += side) {
     		for ( let x = circle/2; x < width; x += side) {
