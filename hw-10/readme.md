@@ -25,5 +25,5 @@ This week I decided to kind of mix these two... kind of. Instead of taking an ol
   8. Next I placed my first function which I spoke about above: twoValues. This function is very similar to one that Dr. Musick showed as an example but I figured it'd be perfect for the effect I was going for. This function uses a *let* function "result" where it adds value 1 and value 2, then returns this result when the function is called.
   9.  My second function comes next "festiveBall". This is where I declare the position of my ball and the scale of it. I also mirrored one of Dr. Musick's smiley face example as well, but drew a festive ball instead.
 
-## I Asked St. Nick ### (but he didn't know the answer)
+## I Asked St. Nick (but he didn't know the answer)
 In step 9, I wanted to keep the scale what it was at, so I wasn't totally sure if it were necessary for me to keep the 'scale_x' and 'scale_y' arguments, but they made the cut! Also the contents of the function were nested in a sandbox, which I'm also not totally sure is necessary since no further code follows, but I also kept it on the offchance that I add more code to it.  
