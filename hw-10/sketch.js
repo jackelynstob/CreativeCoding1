@@ -17,43 +17,30 @@ function draw() {
   	let circle = 30;
   	let side = width / amtInRow;
 
+    makeLittleDots(circle, height, side);
 
-    // create some randomly green circles to look like that loop through the rows
 
-        for ( let y = circle; y < height; y += side) {
-    		for ( let x = circle/2; x < width; x += side) {
-      			fill( 0, random(255), 0 );
-      			ellipse( x , y, 16 - circle/10.0, 16 - circle/10 );
-      		}
-        }
 
 
 //create random numbers for the festive ball to be located
-    let num1 = floor(random(0, 500));
-    let num2 = floor(random(0, 500));
+    let num1 = floor(random(0, width));
+    let num2 = floor(random(0, height));
 
-    let pos = twoValues(num1, num2);
 
-    festiveBall( pos, pos, 1.0, 1.0);
+    festiveBall( num1, num2, 1.0, 1.0);
 //utilize the array through text
 
-    textSize(15);
+    textSize(height/13);
     fill(random(100,255), 0, 0);
-    text("I know it's Thanksgiving time... but:" + " " + string[idx], windowWidth/3, windowHeight/3);
+    text("I know it's Thanksgiving time... but:" + " " + string[idx], windowWidth/6, windowHeight/3);
 //make the text change and go up by one element
     idx = (idx + 1) % string.length;
 
-}
+} //end of draw function
+
+
 
 //create first function
-function twoValues(value1, value2) {
-
-  let result = value1 + value2;
-
-  return result;
-}
-
-//create second function
 function festiveBall( pos_x, pos_y, scale_x, scale_y){
 
   push();
@@ -73,4 +60,18 @@ function festiveBall( pos_x, pos_y, scale_x, scale_y){
   pop();
 
 
+}
+
+
+
+
+// create some randomly green circles to look like that loop through the rows a.k.a. second function
+function makeLittleDots(circle, height, side){
+    for ( let y = circle; y < height; y += side) {
+        for ( let x = circle/2; x < width; x += side) {
+             fill( random(255), random(255), random(255));
+            // alert("x= " + x + " " + "y= " + y + " side= " + side );
+             ellipse( x , y, 16 - circle/10, 16 - circle/10 );
+    }
+  }
 }
